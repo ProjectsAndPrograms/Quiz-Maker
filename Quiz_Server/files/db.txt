@@ -1,0 +1,5 @@
+localhost
+exams
+root
+
+3306
