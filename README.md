@@ -52,18 +52,18 @@ To configure the database the passwords are :<br>
  For client ==> EXAM@CLIENT<br>
  For server ==> EXAM@SERVER<br>
 <br>
-you need to have mysql installed in your Computer
+you need to have MySQL installed in your Computer
 create database for this project you can use any name
 <br>
 You need to configure both Client and Admin with database <br>
 1. To configure admin run Admin panel ->Main->Database Entry<br>
 2. To configure client run client panel -> on the right-bottom corner you can see an icon click on it<br>
 
-<br>HOSTNAME - if you are using mysql in your computer this should be <b>localhost</b>
+<br>HOSTNAME - if you are using MySQL in your computer this should be <b>localhost</b>
 <br>DATABASE - enter your database name here if you don't have one, -- create it 
-<br>USERNAME - enter your username, mysql has default username of <b>root</b>
-<br>PASSWORD - enter your database password here, mysql has default password nothing, you don't need to fill this 
-<br>PORT - if you are using mysql this should be <b>3306</b>
+<br>USERNAME - enter your username, MySQL has default username of <b>root</b>
+<br>PASSWORD - enter your database password here, MySQL has default password nothing, you don't need to fill this 
+<br>PORT - if you are using MySQL this should be <b>3306</b>
 <br><br>
 after filling these details click on commit
 
